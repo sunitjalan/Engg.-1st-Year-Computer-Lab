@@ -9,7 +9,7 @@ sum=a+b;
 diff=a-b;
 prod=a*b;
 quot=a/b;
-printf("The sum of the two numbers is %d.\nThe difference of the two numbers is %d\n.",sum ,diff);
+printf("The sum of the two numbers is %d.\nThe difference of the two numbers is %d.\n",sum ,diff);
 printf("The product of the two numbers is %d.\nThe quotient of the two numbers is %d.\n",prod,quot);
 return 0;
 }
